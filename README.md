@@ -10,4 +10,11 @@
 
 **Homework3:**
 
-**Homework4:** 
+**Sentiment -1**
+*tweet_analysis.py description: 
+- Description: Sentiment analysis in python to analyzing tweets and determine its positive, negative or neutral emotion.
+Tools used:
+ - Tweepy: a python library for accessing the Twitter API
+ - http://tweepy.readthedocs.io/en/v3.5.0/
+ - Textblob: a python library for processing textual data, it provides a API for natural language processing tasks such as sentiment analysis
+ - http://textblob.readthedocs.io/en/dev/
